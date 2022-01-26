@@ -78,9 +78,6 @@ Figure 1.1
 | System Server | Server that serves web pages as well as hosting all server side logic of the system. |
 | Database Server | Server that hosts the legacy relational database. |
 
-![Figure 1.2](images/iteration_1/step6b.png)
-
-Figure 1.2
 
 ## 1.2.6 Step 7: Perform Analysis of Current Design and Review Iteration
 
